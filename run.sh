@@ -1,0 +1,1 @@
+python process_files.py && streamlit run main.py
